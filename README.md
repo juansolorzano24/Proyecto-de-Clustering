@@ -31,6 +31,6 @@ El proyecto está desarrollado en **Python** utilizando el ecosistema estándar 
 3.  **Selección de Factores**:
     * Cálculo de matrices de correlación.
     * Evaluación de la importancia de las variables.
-4.  **Modelado**: Aplicación del algoritmo de clustering seleccionado (K-Means).
+4.  **Modelado**: Aplicación del algoritmo de clustering seleccionado (Selección de factores).
 5.  **Interpretación**: Análisis de los centroides o perfiles de los grupos resultantes.
 
